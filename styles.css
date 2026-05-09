@@ -1,0 +1,404 @@
+/* ================================================
+   Custom layout components
+   ================================================ */
+
+/* Hero section on the home page */
+.hero {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 3rem;
+  align-items: start;
+  margin: 1rem 0 2.5rem 0;
+}
+
+@media (max-width: 700px) {
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    text-align: center;
+  }
+  .hero-photo {
+    max-width: 200px;
+    margin: 0 auto;
+  }
+  .social-row {
+    justify-content: center;
+  }
+}
+
+.hero-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  display: block;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+
+.hero-text h1 {
+  font-size: 2.4rem;
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+}
+
+.hero-text .role {
+  font-size: 1.15rem;
+  color: #555;
+  margin-bottom: 0.2rem;
+  font-weight: 500;
+}
+
+[data-bs-theme="dark"] .hero-text .role {
+  color: #aaa;
+}
+
+.hero-text .affiliation {
+  font-size: 1rem;
+  color: #777;
+  margin-bottom: 1.2rem;
+}
+
+[data-bs-theme="dark"] .hero-text .affiliation {
+  color: #888;
+}
+
+/* Inline social links row */
+.social-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.2rem;
+  margin: 1rem 0 0 0;
+  font-size: 0.95rem;
+}
+
+.social-row a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  border-bottom: none;
+  color: #2c5e9e;
+}
+
+[data-bs-theme="dark"] .social-row a {
+  color: #6ba3e3;
+}
+
+.social-row a:hover {
+  text-decoration: underline;
+}
+
+/* ================================================
+   Epoch strip (home page hero figure)
+   ================================================ */
+.epoch-strip {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.6rem;
+  margin: 2.5rem 0 0.5rem 0;
+}
+
+.epoch {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.epoch img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+  background: transparent;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  cursor: default;
+}
+
+.epoch:hover img {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(44, 94, 158, 0.15);
+}
+
+[data-bs-theme="dark"] .epoch img {
+  filter: brightness(0.92) contrast(1.05);
+}
+
+[data-bs-theme="dark"] .epoch:hover img {
+  box-shadow: 0 8px 24px rgba(107, 163, 227, 0.2);
+}
+
+.epoch-label {
+  display: block;
+  margin-top: 0.6rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #2c5e9e;
+}
+
+[data-bs-theme="dark"] .epoch-label {
+  color: #6ba3e3;
+}
+
+.epoch-caption {
+  text-align: center;
+  font-size: 0.88rem;
+  color: #777;
+  font-style: italic;
+  margin: 1rem 0 3rem 0;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+[data-bs-theme="dark"] .epoch-caption {
+  color: #999;
+}
+
+@media (max-width: 600px) {
+  .epoch-strip {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.8rem;
+  }
+  .epoch:nth-child(5) {
+    grid-column: 1 / -1;
+    max-width: 50%;
+    margin: 0 auto;
+  }
+}
+
+/* ================================================
+   Figure blocks (Research page)
+   ================================================ */
+.figure-block {
+  margin: 2.5rem 0 3rem 0;
+  padding: 1.5rem;
+  background: #fafbfc;
+  border-radius: 10px;
+  border: 1px solid #eef0f3;
+}
+
+[data-bs-theme="dark"] .figure-block {
+  background: #14191f;
+  border-color: #1f2730;
+}
+
+.figure-block img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px;
+}
+
+[data-bs-theme="dark"] .figure-block img {
+  filter: brightness(0.92);
+}
+
+.figure-caption {
+  margin-top: 0.9rem;
+  font-size: 0.88rem;
+  color: #777;
+  font-style: italic;
+  line-height: 1.55;
+  text-align: center;
+  padding: 0 1rem;
+}
+
+[data-bs-theme="dark"] .figure-caption {
+  color: #999;
+}
+
+/* ================================================
+   Section headings (used on home + research pages)
+   ================================================ */
+.section-heading {
+  font-size: 1.4rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #eaeaea;
+}
+
+[data-bs-theme="dark"] .section-heading {
+  border-bottom-color: #1f2730;
+}
+
+/* Research theme cards */
+.theme-card {
+  margin-bottom: 1.8rem;
+}
+
+.theme-card h3 {
+  font-size: 1.15rem;
+  margin-bottom: 0.5rem;
+}
+
+/* ================================================
+   Publications
+   ================================================ */
+.pub-entry {
+  margin-bottom: 1.2rem;
+  padding-left: 1rem;
+  border-left: 3px solid #eaeaea;
+  font-size: 0.97rem;
+  line-height: 1.55;
+}
+
+[data-bs-theme="dark"] .pub-entry {
+  border-left-color: #2a3340;
+}
+
+.pub-entry .authors strong {
+  color: #2c5e9e;
+}
+
+[data-bs-theme="dark"] .pub-entry .authors strong {
+  color: #6ba3e3;
+}
+
+.pub-entry .journal {
+  font-style: italic;
+}
+
+.pub-entry .pub-links {
+  margin-top: 0.3rem;
+  font-size: 0.88rem;
+}
+
+.pub-entry .pub-links a {
+  margin-right: 0.8rem;
+}
+
+/* Year section headings */
+.year-heading {
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #888;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+/* ================================================
+   Talks
+   ================================================ */
+.talk-entry {
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+  border-left: 3px solid #eaeaea;
+}
+
+[data-bs-theme="dark"] .talk-entry {
+  border-left-color: #2a3340;
+}
+
+.talk-entry.invited {
+  border-left-color: #c9a227;
+}
+
+.talk-entry .label {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #c9a227;
+  margin-right: 0.5rem;
+}
+
+.talk-entry .talk-title {
+  font-weight: 500;
+}
+
+.talk-entry .venue {
+  color: #666;
+  font-size: 0.92rem;
+  display: block;
+  margin-top: 0.15rem;
+}
+
+[data-bs-theme="dark"] .talk-entry .venue {
+  color: #999;
+}
+
+/* ================================================
+   Media page
+   ================================================ */
+.stats-block {
+  background: #f6f7f9;
+  border-radius: 8px;
+  padding: 1.2rem 1.5rem;
+  margin: 1.5rem 0 2rem 0;
+  font-size: 0.97rem;
+}
+
+[data-bs-theme="dark"] .stats-block {
+  background: #14191f;
+}
+
+.media-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.8rem;
+  margin: 1rem 0 2rem 0;
+}
+
+.media-item {
+  padding: 0.8rem 1rem;
+  border-left: 3px solid #2c5e9e;
+  background: #fafbfc;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+[data-bs-theme="dark"] .media-item {
+  border-left-color: #6ba3e3;
+  background: #14191f;
+}
+
+.media-item a {
+  font-weight: 500;
+  border-bottom: none;
+}
+
+.media-item a:hover {
+  text-decoration: underline;
+}
+
+.media-item .outlet {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.85rem;
+  color: #777;
+}
+
+[data-bs-theme="dark"] .media-item .outlet {
+  color: #aaa;
+}
+
+/* ================================================
+   CV download button
+   ================================================ */
+.cv-button {
+  display: inline-block;
+  background: #2c5e9e;
+  color: white !important;
+  padding: 0.55rem 1.2rem;
+  border-radius: 6px;
+  font-weight: 500;
+  border-bottom: none !important;
+  margin: 0.5rem 0 1.5rem 0;
+  transition: background 0.15s ease;
+}
+
+.cv-button:hover {
+  background: #234a7e;
+  color: white !important;
+}
+
+/* Tighten content width slightly for readability */
+main.content {
+  max-width: 820px;
+}

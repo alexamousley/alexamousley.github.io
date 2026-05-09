@@ -1,0 +1,109 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Alexa Mousley"
+  description: "Alexa Mousley is a computational neuroscientist at the University of Cambridge studying how brain networks form, refine, and reorganise across the human lifespan."
+  site-url: https://www.alexamousley.com
+  favicon: assets/favicon.png
+  open-graph: true
+  twitter-card: true
+  google-analytics: ""  # optional: paste your GA4 measurement ID here later
+
+  navbar:
+    background: light
+    pinned: true
+    logo: ""
+    title: false
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+      - href: media.qmd
+        text: Media
+      - href: mentoring.qmd
+        text: Mentoring
+      - href: outreach.qmd
+        text: Outreach & Policy
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: "mailto:alexa.mousley@mrc-cbu.cam.ac.uk"
+        aria-label: Email
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=nR6ga7UAAAAJ&hl=en"
+        aria-label: Google Scholar
+      - icon: github
+        href: "https://github.com/alexamousley"
+        aria-label: GitHub
+      - icon: cloud
+        href: "https://bsky.app/profile/alexamousley.bsky.social"
+        aria-label: Bluesky
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/alexa-mousley/"
+        aria-label: LinkedIn
+
+  page-footer:
+    background: light
+    left: "© 2026 Alexa Mousley"
+    right:
+      - icon: envelope
+        href: "mailto:alexa.mousley@mrc-cbu.cam.ac.uk"
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=nR6ga7UAAAAJ&hl=en"
+      - icon: github
+        href: "https://github.com/alexamousley"
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-dark.scss]
+    toc: false
+    css: styles.css
+    link-external-newwindow: true
+    smooth-scroll: true
+    anchor-sections: false
+    include-in-header:
+      text: |
+        <link rel="canonical" href="https://www.alexamousley.com" />
+        <meta name="author" content="Alexa Mousley" />
+        <meta name="keywords" content="Alexa Mousley, neuroscientist, computational neuroscience, University of Cambridge, brain networks, connectome, diffusion MRI, adolescent mental health, lifespan brain development, MRC Cognition and Brain Sciences Unit" />
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "name": "Alexa Mousley",
+          "url": "https://www.alexamousley.com",
+          "image": "https://www.alexamousley.com/assets/headshot.jpg",
+          "jobTitle": "Postdoctoral Research Associate",
+          "affiliation": {
+            "@type": "Organization",
+            "name": "University of Cambridge",
+            "url": "https://www.cam.ac.uk/"
+          },
+          "alumniOf": [
+            {
+              "@type": "CollegeOrUniversity",
+              "name": "University of Cambridge"
+            },
+            {
+              "@type": "CollegeOrUniversity",
+              "name": "Vassar College"
+            }
+          ],
+          "sameAs": [
+            "https://scholar.google.com/citations?user=nR6ga7UAAAAJ&hl=en",
+            "https://github.com/alexamousley",
+            "https://bsky.app/profile/alexamousley.bsky.social",
+            "https://www.linkedin.com/in/alexa-mousley/"
+          ]
+        }
+        </script>

@@ -1,0 +1,67 @@
+/*-- scss:defaults --*/
+
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-serif: "Source Serif 4", "Source Serif Pro", Georgia, serif;
+$headings-font-family: $font-family-sans-serif;
+$headings-font-weight: 600;
+
+$body-bg: #0f1419;
+$body-color: #e6e6e6;
+$primary: #6ba3e3;
+$link-color: #6ba3e3;
+$navbar-bg: #0f1419;
+$navbar-fg: #e6e6e6;
+$footer-bg: #14191f;
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap');
+
+body {
+  font-feature-settings: "kern", "liga", "calt";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.005em;
+}
+
+h1, h2, h3, h4 {
+  letter-spacing: -0.02em;
+  color: #f5f5f5;
+}
+
+h1 { font-weight: 700; }
+
+a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(107, 163, 227, 0.3);
+  transition: border-color 0.15s ease;
+}
+
+a:hover {
+  border-bottom-color: rgba(107, 163, 227, 1);
+}
+
+.navbar {
+  border-bottom: 1px solid #1f2730;
+  font-weight: 500;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.15rem;
+}
+
+.navbar a {
+  border-bottom: none;
+}
+
+.nav-footer {
+  border-top: 1px solid #1f2730;
+  padding: 1.5rem 0;
+  font-size: 0.9rem;
+  color: #999;
+}
+
+.nav-footer a {
+  border-bottom: none;
+}

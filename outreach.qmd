@@ -1,0 +1,42 @@
+---
+title: "Outreach & Policy Development"
+pagetitle: "Outreach & Policy Development — Alexa Mousley"
+description-meta: "Policy contributions, public engagement, and science communication by Alexa Mousley."
+toc: true
+toc-location: right
+toc-title: "On this page"
+---
+
+I believe research must reach beyond the journal articles. These are the venues where I've contributed to policy, science communication, and public conversation about brain development and mental health.
+
+## Policy development
+
+::: {.talk-entry .invited}
+[★ Invited attendee]{.label}
+[CSaP Roundtable on Reframing Mental Health in Policy Making]{.talk-title}
+[Centre for Science and Policy & the Downing Battcock Institute · Downing College, University of Cambridge · April 2026]{.venue}
+:::
+
+::: {.talk-entry .invited}
+[★ Evidence brief contributor]{.label}
+[Inquiry into the situation of young people Not in Employment, Education or Training (NEET)]{.talk-title}
+[All-Party Parliamentary Group on Poverty and Inequality · Remote · 2025]{.venue}
+:::
+
+::: {.talk-entry .invited}
+[★ Invited attendee]{.label}
+[Diverse Trajectories to Good Developmental Outcomes Workshop]{.talk-title}
+[Global Scientific Conference on Human Flourishing · Cambridge, UK · November 2022]{.venue}
+:::
+
+## Public engagement
+
+- **Big Biology Day Volunteer** — Hills Road Sixth Form College, Cambridge (October 2025). Ran a family-friendly neuroscience stall with hands-on activities for parents and children.
+- **Panellist** — *Navigating Neurodiversity in the Workplace*, University of Cambridge (October 2025).
+- **Event Organiser & Host** — [Pint of Science](https://pintofscience.co.uk/), Cambridge (October 2023 – May 2024). Coordinated venues, recruited speakers, and hosted three events bringing scientific concepts to lay audiences.
+- **Public talk** — *Simulating brains: how it works and what we learn*, Cambridge Festival (November 2022).
+- **Guest author** — *Grey Matters*, Vassar College (August 2021).
+
+## Science communication
+
+My research has been featured by **342 news outlets** in 19+ languages, including BBC News, Sky News, The Guardian, The Wall Street Journal, The Times, National Geographic, and Scientific American. [See full media coverage →](media.html)

@@ -1,0 +1,73 @@
+/*-- scss:defaults --*/
+
+// Typography
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-serif: "Source Serif 4", "Source Serif Pro", Georgia, serif;
+$headings-font-family: $font-family-sans-serif;
+$headings-font-weight: 600;
+$body-color: #1a1a1a;
+
+// Colours — calm, academic blue accent
+$primary: #2c5e9e;
+$link-color: #2c5e9e;
+$navbar-bg: #ffffff;
+$navbar-fg: #1a1a1a;
+$footer-bg: #f6f7f9;
+
+// Spacing
+$content-padding-top: 2rem;
+
+/*-- scss:rules --*/
+
+// Pull Inter + Source Serif 4 from Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap');
+
+body {
+  font-feature-settings: "kern", "liga", "calt";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.005em;
+}
+
+h1, h2, h3, h4 {
+  letter-spacing: -0.02em;
+}
+
+h1 { font-weight: 700; }
+
+a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(44, 94, 158, 0.25);
+  transition: border-color 0.15s ease;
+}
+
+a:hover {
+  border-bottom-color: rgba(44, 94, 158, 0.8);
+}
+
+// Navbar tweaks
+.navbar {
+  border-bottom: 1px solid #eaeaea;
+  font-weight: 500;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.15rem;
+}
+
+.navbar a {
+  border-bottom: none;
+}
+
+// Footer
+.nav-footer {
+  border-top: 1px solid #eaeaea;
+  padding: 1.5rem 0;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.nav-footer a {
+  border-bottom: none;
+}

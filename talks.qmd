@@ -1,0 +1,149 @@
+---
+title: "Talks & Symposia"
+pagetitle: "Talks — Alexa Mousley"
+description-meta: "Invited talks, symposia, and conference presentations by Alexa Mousley on lifespan brain network development."
+toc: true
+toc-location: right
+toc-title: "By year"
+---
+
+Invited talks are marked with **★**.
+
+## Upcoming
+
+::: {.talk-entry .invited}
+[★]{.label}
+[Adolescent Brain Matures at 32]{.talk-title}
+[10th International Workshop on Adolescence, SRHR & HIV · Bangkok, Thailand · September 2026]{.venue}
+:::
+
+::: {.talk-entry .invited}
+[★]{.label}
+[Lifespan Connectomics Meets AI: Complexity, Development and Clinical Applications]{.talk-title}
+[Organization for Human Brain Mapping · Bordeaux, France · June 2026]{.venue}
+:::
+
+## 2026
+
+::: {.talk-entry .invited}
+[★]{.label}
+[The four phases of brain rewiring]{.talk-title}
+[Better Futures Programme, Professional and Continuing Education · University of Cambridge · March 2026]{.venue}
+:::
+
+::: {.talk-entry}
+[Topological turning points across the human lifespan]{.talk-title}
+[WLTS, MRC Cognition and Brain Sciences Unit · University of Cambridge · January 2026]{.venue}
+:::
+
+## 2025
+
+::: {.talk-entry .invited}
+[★]{.label}
+[Formation, refinement, and reorganisation of structural brain topology]{.talk-title}
+[University of Vermont · USA · September 2025]{.venue}
+:::
+
+::: {.talk-entry .invited}
+[★ Flash talk]{.label}
+[Topological turning points across the human lifespan]{.talk-title}
+[FLUX · Dublin, Ireland · September 2025]{.venue}
+:::
+
+::: {.talk-entry .invited}
+[★ Power-pitch]{.label}
+[Topological turning points across the human lifespan]{.talk-title}
+[Cambridge Imaging Festival · University of Cambridge · June 2025]{.venue}
+:::
+
+## 2023
+
+::: {.talk-entry}
+[Structural topology and network simulations across the lifespan]{.talk-title}
+[WLTS, MRC Cognition and Brain Sciences Unit · University of Cambridge · October 2023]{.venue}
+:::
+
+::: {.talk-entry .invited}
+[★]{.label}
+[Premature birth changes wiring constraints in neonatal structural brain networks]{.talk-title}
+[Centre for the Developing Brain · King's College London · September 2023]{.venue}
+:::
+
+## 2022
+
+::: {.talk-entry}
+[[Quantifying and modelling brain organization](https://www.youtube.com/watch?v=d-YDS7Xi3m8)]{.talk-title}
+[Methods Day, MRC Cognition and Brain Sciences Unit · University of Cambridge · December 2022]{.venue}
+:::
+
+::: {.talk-entry .invited}
+[★]{.label}
+[Simulating brain development]{.talk-title}
+[CamBrain Neurotalks · University of Cambridge · November 2022]{.venue}
+:::
+
+::: {.talk-entry .invited}
+[★ Public talk]{.label}
+[Simulating brains: how it works and what we learn]{.talk-title}
+[Cambridge Festival · Cambridge, UK · November 2022]{.venue}
+:::
+
+::: {.talk-entry .invited}
+[★ Data Blitz]{.label}
+[A generative network model of neonatal brain development]{.talk-title}
+[Cambridge Neuroscience Seminar · University of Cambridge · September 2022]{.venue}
+:::
+
+## Poster presentations
+
+### 2025
+
+::: {.talk-entry}
+[Turning points across the human lifespan]{.talk-title}
+[FLUX · Dublin, Ireland · September 2025]{.venue}
+:::
+
+::: {.talk-entry}
+[Turning points across the human lifespan]{.talk-title}
+[UK Neural Computing Conference · Imperial College, London · July 2025]{.venue}
+:::
+
+::: {.talk-entry}
+[Turning points across the human lifespan]{.talk-title}
+[Cambridge Imaging Festival · University of Cambridge · June 2025]{.venue}
+:::
+
+### 2024
+
+::: {.talk-entry}
+[Turning points across the human lifespan]{.talk-title}
+[Cognitive Computational Neuroscience · MIT, Cambridge, MA, USA · August 2024]{.venue}
+:::
+
+### 2023
+
+::: {.talk-entry}
+[Premature birth changes wiring constraints in neonatal structural brain networks]{.talk-title}
+[Organization for Human Brain Mapping · Montreal, Canada · July 2023]{.venue}
+:::
+
+### 2022
+
+::: {.talk-entry}
+[A generative network model of neonatal brain development]{.talk-title}
+[Cambridge Neuroscience Seminar · Cambridge, UK · September 2022]{.venue}
+:::
+
+### 2020
+
+::: {.talk-entry}
+[Binge alcohol consumption affects Arc/arg3.1 expression following remote fear extinction recall in male and female adult C57BL/6N mice]{.talk-title}
+[Vassar College Neuroscience and Behavior Symposium · Remote · April 2020]{.venue}
+:::
+
+### 2019
+
+::: {.talk-entry}
+[Sex-dependent influence of gut dysbiosis on defensive behaviors and basolateral amygdala dendritic morphology]{.talk-title}
+[Society for Neuroscience · Chicago, IL, USA · October 2019 *(co-author)*]{.venue}
+:::

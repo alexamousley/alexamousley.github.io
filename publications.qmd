@@ -1,0 +1,121 @@
+---
+title: "Publications"
+pagetitle: "Publications — Alexa Mousley"
+description-meta: "Peer-reviewed publications and preprints by Alexa Mousley on brain network development, generative connectome models, and adolescent mental health."
+toc: true
+toc-location: right
+toc-title: "By year"
+---
+
+A complete list of my peer-reviewed publications and preprints.
+
+## 2026
+
+::: {.pub-entry}
+::: {.authors}
+Trachtenberg, E., **Mousley, A.**, Jelen, M., & Astle, D.E. (2026).
+:::
+Mapping social profiles in childhood and adolescence: associations with cognition and brain structure. [*bioRxiv*]{.journal}.
+
+::: {.pub-links}
+[DOI](https://doi.org/10.64898/2026.04.20.719698)
+:::
+:::
+
+## 2025
+
+::: {.pub-entry}
+::: {.authors}
+**Mousley, A.**, Bethlehem, R., Yeh, F-C., & Astle, D.E. (2025).
+:::
+Topological turning points across the human lifespan. [*Nature Communications*]{.journal}, 16(1), 10005.
+
+::: {.pub-links}
+[DOI](https://doi.org/10.1038/s41467-025-65974-8) · [Full text](https://www.nature.com/articles/s41467-025-65974-8)
+:::
+:::
+
+::: {.pub-entry}
+::: {.authors}
+Poli, F., Oldham, S., **Mousley, A.**, Bullmore, E.T., Vértes, P.E., & Astle, D.E. (2025).
+:::
+Right time, right place: Heterochronicity shapes brain network formation. [*bioRxiv*]{.journal}.
+
+::: {.pub-links}
+[DOI](https://doi.org/10.1101/2025.10.13.682136)
+:::
+:::
+
+::: {.pub-entry}
+::: {.authors}
+**Mousley, A.**, Akarca, D., & Astle, D.E. (2025).
+:::
+Premature birth changes wiring constraints in neonatal structural brain networks. [*Nature Communications*]{.journal}, 16(1), 490.
+
+::: {.pub-links}
+[DOI](https://doi.org/10.1038/s41467-024-55178-x) · [Full text](https://www.nature.com/articles/s41467-024-55178-x)
+:::
+:::
+
+::: {.pub-entry}
+::: {.authors}
+**Mousley, A.** (2025). [*PhD Thesis*]
+:::
+Formation, refinement, and reorganisation of complex brain network topology across the lifespan. Doctoral thesis, University of Cambridge.
+
+::: {.pub-links}
+[Apollo Repository](https://doi.org/10.17863/CAM.121991)
+:::
+:::
+
+## 2023
+
+::: {.pub-entry}
+::: {.authors}
+Mitchell, D.J., **Mousley, A.L.S.**, Shafto, M.A., & Duncan, J. (2023).
+:::
+Neural contributions to reduced fluid intelligence across the adult lifespan. [*Journal of Neuroscience*]{.journal}, 43(2), 293–307.
+
+::: {.pub-links}
+[DOI](https://doi.org/10.1523/JNEUROSCI.0148-22.2022)
+:::
+:::
+
+## 2022
+
+::: {.pub-entry}
+::: {.authors}
+Lawson, K., … **Mousley, A.L.**, … & Bergstrom, H.C. (2022).
+:::
+Adolescence alcohol exposure impairs extinction and alters medial prefrontal cortex plasticity. [*Neuropharmacology*]{.journal}, 21, 109048.
+
+::: {.pub-links}
+[DOI](https://doi.org/10.1016/j.neuropharm.2022.109048)
+:::
+:::
+
+## 2021
+
+::: {.pub-entry}
+::: {.authors}
+Geary, C.G., … **Mousley, A.L.**, … & Bergstrom, H. (2021).
+:::
+Sex differences in gut microbiota modulation of aversive conditioning, open field activity, and basolateral amygdala dendritic spine density. [*Journal of Neuroscience Research*]{.journal}, 99(7), 1780–1801.
+
+::: {.pub-links}
+[DOI](https://doi.org/10.1002/jnr.24848)
+:::
+:::
+
+## 2019
+
+::: {.pub-entry}
+::: {.authors}
+Scarlata, M.J., … **Mousley, A.**, … & Bergstrom, H.C. (2019).
+:::
+Chemogenetic stimulation of the infralimbic cortex reverses alcohol-induced fear memory. [*Scientific Reports*]{.journal}, 9(1), 1–15.
+
+::: {.pub-links}
+[DOI](https://doi.org/10.1038/s41598-019-43159-w)
+:::
+:::

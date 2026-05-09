@@ -1,0 +1,58 @@
+---
+title: "Mentoring & Teaching"
+pagetitle: "Mentoring — Alexa Mousley"
+description-meta: "Graduate supervision, mentoring, and teaching activities by Alexa Mousley at the University of Cambridge."
+toc: true
+toc-location: right
+toc-title: "On this page"
+---
+
+I work with students at all stages — from secondary school through Graduate level.
+
+## Current
+
+### Mentor — British Neuroscience Association Scholars Programme {.section-heading}
+
+*April 2026 – present*
+
+Providing professional and personal mentorship for graduate students across the UK as part of the [BNA Scholars Programme](https://www.bna.org.uk/).
+
+### Co-supervisor — Master's student, University of Cambridge {.section-heading}
+
+*October 2025 – present*
+
+**Halid Oguz Serce** — *Mapping longitudinal changes in structural networks using generative network modelling.*
+
+### Mentor — Lumiere Education {.section-heading}
+
+*June 2023 – present*
+
+Through [Lumiere](https://www.lumiere-education.com/), I create individualised research syllabi and teach weekly one-on-one sessions for high-school students worldwide. Nine students mentored to date across the USA, India, China, Qatar, and Albania.
+
+Mentee project topics include:
+
+- Neural resilience and the development of Alzheimer's disease
+- Depression and anxiety in adolescence
+- The gut-brain axis and mental health interventions *(resulting in an accepted manuscript in The National Journal of High School Science)*
+- Brain tumours and brain connectivity
+- Motivation in human behaviour
+- Whole-brain network organisation and psychiatric disorders
+- Transdiagnostic mental health patterns in brain networks
+- Ageing, memory, and Alzheimer's
+- Neuroplasticity and addiction
+
+## Lab training & workshops
+
+- Lead workshops on **tractography**, **diffusion MRI processing**, and **computational pipelines** at the 4D Lab.
+- Provide informal training to graduate students and postdocs in data processing, **Python**, **R**, and **MATLAB** code development.
+
+## Earlier teaching & clinical experience
+
+- **One-to-One Classroom Support** — Wimpfheimer Nursery School, NY (2019–2020). Supporting a child with Down syndrome in an after-school programme.
+- **Clinical Intern** — Chandelier Assessments, Vermont (2018). Observed and assisted in paediatric psychological assessments including the Wechsler Adult Intelligence Scale.
+- **Teacher's Assistant** — Wimpfheimer Nursery School, NY (2018). Toddler classroom; developed and ran an educational programme.
+
+## Service
+
+- **Postdoc Committee Member** — MRC Cognition and Brain Sciences Unit, University of Cambridge (October 2025 – present). Organising the Postdoc Retreat, social events, and grant workshops; tracking postdoc wellbeing and needs.
+- **Peer reviewer** — Brain Communications, Computational Cognitive Neuroscience Conference.

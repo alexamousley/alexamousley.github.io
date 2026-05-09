@@ -1,0 +1,171 @@
+---
+title: "Media"
+pagetitle: "Media — Alexa Mousley"
+description-meta: "Press, broadcast, and online coverage of Alexa Mousley's research on brain network development across the lifespan."
+toc: true
+toc-location: right
+toc-title: "Coverage by type"
+---
+
+::: {.stats-block}
+My first-author research has been featured by **342 news outlets** in 19+ languages, discussed in **622 social media posts**, included in **19 blogs**, and covered in **8 podcasts** *(Altmetric, May 2026)*. Highlights include BBC News, Sky News, The Guardian, The Wall Street Journal, The Times, National Geographic, and Scientific American.
+:::
+
+## Featured print coverage
+
+::: {.media-list}
+
+::: {.media-item}
+[**Are you there yet? Decoding the new maths of adulthood**](https://www.hindustantimes.com/lifestyle/art-culture/are-you-there-yet-decoding-the-new-maths-of-adulthood-101776502081319.html)
+[Hindustan Times · 18 April 2026]{.outlet}
+:::
+
+::: {.media-item}
+[**Adolescence lasts into 30s — new study shows four pivotal ages for your brain**](https://www.bbc.co.uk/news/articles/cgl6klez226o)
+[BBC News · 25 November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**Brain has five 'eras', scientists say — with adult mode not starting until early 30s**](https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study)
+[The Guardian · 25 November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**Your brain ages in five distinct stages, new research shows**](https://www.wsj.com/health/wellness/brain-stages-aging-five-study-nature-a015101e)
+[The Wall Street Journal · 23 December 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**Adolescence ends at 32? That was my brain's peak**](https://www.thetimes.com/life-style/health-fitness/article/adolescence-ends-at-32-brain-peak-tz89rtxl9)
+[The Times · 25 November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**Our brains reboot at four key ages. This is how it feels**](https://www.thetimes.com/uk/science/article/science-ageing-five-lifespan-epochs-8kkh35vkt)
+[The Times · 20 December 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**Human brains have 5 distinct 'epochs' in a lifetime, study finds**](https://www.nbcnews.com/science/science-news/human-brains-5-epochs-development-rcna245663)
+[NBC News · 25 November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**Scientists identify 4 key turning points for your brain as you age**](https://www.nationalgeographic.com/health/article/how-your-brain-changes-at-every-age)
+[National Geographic · 1 December 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**New study shows how your brain changes at four key ages: 9, 32, 66 and 83**](https://www.washingtonpost.com/wellness/2025/12/09/five-phases-brain-structure-changes/)
+[The Washington Post · 9 December 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**Scientists identify five distinct eras of human brain development**](https://www.scientificamerican.com/article/scientists-identify-five-distinct-eras-of-human-brain-aging/)
+[Scientific American · 25 November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**The human brain goes through five 'non-linear' stages of development, according to new study**](https://www.abc.net.au/news/2025-11-26/brain-develops-through-5-stages-new-study/106054488)
+[ABC News (Australia) · 26 November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**Your brain undergoes four dramatic periods of change from age 0 to 90**](https://archive.is/rryzh#selection-627.0-627.69)
+[New Scientist · 25 November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**Does adolescence last until 32? Scientists unlock brain's five eras**](https://www.aljazeera.com/news/2025/11/26/does-adolescence-last-until-32-scientists-unlock-brains-five-eras)
+[Al Jazeera · 26 November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**The five 'ages' of the human brain: Crucial changes occur around the ages of nine, 32, 66 and 83**](https://english.elpais.com/science-tech/2025-11-25/the-five-ages-of-the-human-brain-crucial-changes-occur-around-the-ages-of-nine-32-66-and-83.html)
+[El País (Spain) · 25 November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**The human brain ages in five stages**](https://www.repubblica.it/salute/dossier/frontiere/2025/11/25/news/cervello-invecchiamento-tappe-studio-425003099/)
+[la Repubblica (Italy) · 25 November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**Our brain changes four times — at about nine, 32, 66 and 83 years**](https://www.derstandard.at/story/3000000297900/unser-hirn-aendert-sich-viermal-mit-etwa-neun-32-66-und-83-jahren)
+[Der Standard (Austria) · 25 November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**Adult only from early 30s: Scientists determine four phases of brain development**](https://www.berliner-zeitung.de/news/erwachsen-erst-ab-anfang-30-wissenschaftler-ermitteln-vier-altersphasen-des-gehirns-li.10007365)
+[Berliner Zeitung (Germany) · 25 November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**9, 32, 66 and 83: each of these ages corresponds to a phase of development of our brain**](https://www.liberation.fr/societe/sante/9-32-66-et-83-ans-chacun-de-ces-ages-correspond-a-une-phase-de-developpement-de-notre-cerveau-20251127_73ILHAYQJ5DUFDKUWSBQCJELNI/)
+[Libération (France) · 27 November 2025]{.outlet}
+:::
+
+:::
+
+## Radio & podcasts
+
+::: {.media-list}
+
+::: {.media-item}
+[**What brain phases tell us about each stage of life**](https://www.cbc.ca/listen/live-radio/1-63-the-current/clip/16184897-what-brain-phases-tell-stage-life)
+[CBC The Current · December 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**Science in the news**](https://omny.fm/shows/fun-kids-science-weekly/space-secrets-astronaut-tim-peake-reveals-all)
+[Fun Kids Science Weekly · December 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**Brain research segment**](https://www.abc.net.au/news/2025-11-26/naus_nrbrainresearch_2611/106053852)
+[ABC Australia News Hour · 26 November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[**The Agenda**](https://omny.fm/shows/the-agenda-with-georgia-tolley/know-your-rights-as-a-tenant)
+[Dubai Eye 103.8 · November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[BBC Radio 4 *World at One* · November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[BBC Radio 5 Live Drive · November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[BBC World Service News Hour · November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[BBC Wales · November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[BBC Hereford & Worcester · November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[ABC Radio Perth Drive · November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[ABC North Coast · November 2025]{.outlet}
+:::
+
+::: {.media-item}
+[CBC Radio 1 · November 2025]{.outlet}
+:::
+
+:::
+
+## Television
+
+- [**BBC News**](https://www.youtube.com/watch?v=v3yiEuPzPvA) — November 2025
+- **Sky News** — November 2025

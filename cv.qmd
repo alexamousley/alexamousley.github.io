@@ -1,0 +1,62 @@
+---
+title: "CV"
+pagetitle: "CV — Alexa Mousley"
+description-meta: "Curriculum vitae of Alexa Mousley, computational neuroscientist at the University of Cambridge."
+toc: true
+toc-location: right
+toc-title: "On this page"
+---
+
+[{{< fa file-pdf >}} Download full CV (PDF)](assets/Mousley_CV.pdf){.cv-button}
+
+## Education
+
+| Year | Degree | Institution |
+|------|--------|-------------|
+| 2021 – 2025 | PhD, Medical Sciences | University of Cambridge, UK |
+| 2016 – 2020 | BA, Neuroscience and Behaviour *(Honours)* | Vassar College, USA |
+
+## Current position
+
+**Postdoctoral Research Associate** — 4D Lab, Department of Psychiatry, University of Cambridge *(May 2025 – present)*
+
+Investigating how structural brain connectivity relates to adolescent mental health, genetic predisposition, cognitive abilities, and adverse experiences in over 9,000 participants from the Adolescent Brain Cognitive Development study.
+
+## Previous positions
+
+- **PhD Candidate**, MRC Cognition and Brain Sciences Unit, Cambridge *(October 2021 – April 2025)*. Supervised by Professor Duncan Astle, advised by Professor Joni Holmes.
+- **Venture Scientist**, [ConceptionX](https://www.conceptionx.org/), London *(March – November 2022)*
+- **Volunteer Research Assistant**, [Professor John Duncan's lab](https://www.mrc-cbu.cam.ac.uk/people/john.duncan/), University of Cambridge *(August 2020 – August 2021)*. Supervised by [Dr Daniel Mitchell](https://www.mrc-cbu.cam.ac.uk/people/daniel.mitchell/).
+- **Research Assistant**, [Neuroscience Memory Lab](https://pages.vassar.edu/bergstromlab/), Vassar College *(August 2017 – May 2020)*. Supervised by Professor Hadley Bergstrom.
+- **Research Intern**, [NeuroPoly Lab](https://neuro.polymtl.ca/README.html), École Polytechnique, Montreal *(May – August 2019)*. Co-supervised by Professor Julien Cohen-Adad and Dr Gabriel Mangeat.
+
+## Honours & awards
+
+- **Gates Cambridge Scholarship** *(2021–2025)* — approx. £201,500
+- **Katharine Jones Baker Fellowship**, Vassar College *(2020)* — $3,000
+- **Departmental Honours in Neuroscience and Behavior**, Vassar College *(2020)*
+- **General Honours**, Vassar College *(2020)*
+- **Sigma Xi** Scientific Research Honor Society *(2020)*
+- **Psi Chi** International Honor Society in Psychology *(2019)*
+- **Internship Grant Fund**, Vassar College *(2018, 2019)*
+- **Liberty League All-Academic Team**, NCAA *(2017–2019)*
+
+## Technical skills
+
+**Programming** — Python, R, MATLAB *(see [GitHub](https://github.com/alexamousley))*
+
+**Software & tools** — DSI Studio, FreeSurfer, QSIprep, Slurm Workload Manager, [Open Science Framework](https://osf.io/eq6ja/)
+
+**Methods** — Tractography · Graph theory · Generative network modelling · UMAP · Factor analysis · Clustering · Support Vector Machines · PCA · LASSO · Generalised additive models · Linear mixed-effects models · Partial least squares regression · Dynamic time warping · Morphometric INverse Divergence (MIND)
+
+**Certifications** — DeepLearning.AI / Stanford online courses in *Advanced Learning Algorithms*, *Supervised Machine Learning: Regression and Classification*, and *Unsupervised Learning, Recommenders, and Reinforcement Learning*.
+
+## Service
+
+- Peer reviewer — Brain Communications, Computational Cognitive Neuroscience Conference
+- Postdoc Committee Member, MRC Cognition and Brain Sciences Unit
+- Invited attendee — CSaP Roundtable on Reframing Mental Health in Policy Making, Downing College, Cambridge (April 2026)
+- Evidence brief contributor — APPG on Poverty and Inequality, NEET Inquiry
+- Invited attendee — Diverse Trajectories to Good Developmental Outcomes Workshop, Global Scientific Conference on Human Flourishing, Cambridge (November 2022)
+
+---
