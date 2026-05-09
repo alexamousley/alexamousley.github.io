@@ -414,8 +414,7 @@ main.content {
    to a single body size, overriding Quarto defaults.
    Headings keep their own sizes.
    ================================================ */
-main.content > p,
-main.content .theme-card p,
+main.content p,
 main.content li,
 main.content li p,
 main.content li em,
