@@ -61,7 +61,7 @@ I'm a computational neuroscientist studying how the brain's structural connectio
 :::
 
 ::: {.epoch-caption}
-The five eras of human brain network organisation, from my work on lifespan connectomics ([*Nature Communications*, 2025](https://doi.org/10.1038/s41467-025-65974-8)).
+Read about the five eras of human brain network organisation ([*Nature Communications*, 2025](https://doi.org/10.1038/s41467-025-65974-8)).
 :::
 
 ## About
