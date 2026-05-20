@@ -30,6 +30,7 @@ Providing professional and personal mentorship for graduate students across the 
 Through [Lumiere](https://www.lumiere-education.com/), I create individualised research syllabi and teach weekly one-on-one sessions for high-school students worldwide. Nine students mentored to date across the USA, India, China, Qatar, and Albania.
 
 Mentee project topics include:
+
 - Brain tumor location and functional connectivity
 - Neural plasticity and the gut microbiome
 - Adolescent brain development and addiction
