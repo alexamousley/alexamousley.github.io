@@ -1,6 +1,6 @@
 ---
-pagetitle: "Alexa Mousley — Computational Neuroscientist, University of Cambridge"
-description-meta: "Alexa Mousley is a computational neuroscientist at the University of Cambridge studying how brain networks form, refine, and reorganise across the human lifespan."
+pagetitle: "Alexa Mousley — Developmental Neuroscientist, University of Cambridge"
+description-meta: "Alexa Mousley is a developmental neuroscientist at the University of Cambridge studying how brain networks form, refine, and reorganise across the human lifespan."
 toc: false
 page-layout: article
 ---
@@ -66,7 +66,7 @@ Read about the five eras of human brain network organisation ([*Nature Communica
 
 ## About
 
-I'm a computational neuroscientist working at the intersection of brain imaging, network science, and machine learning. My research explores the wiring of the developing brain as it developes and changes across the lifespan in the context of genetic and environmental influences.
+I'm a developmental neuroscientist working at the intersection of brain imaging, network science, and machine learning. My research explores the wiring of the developing brain as it developes and changes across the lifespan in the context of genetic and environmental influences.
 
 I'm currently a postdoc in the [4D Lab](https://www.astlelab.com/) at Cambridge, where I investigate how brain connectivity relates to adolescent mental health, cognition, genetics, and adverse experiences in young people from the [Adolescent Brain Cognitive Development study](https://abcdstudy.org/). In my PhD, supported by the [Gates Cambridge Scholarship](https://www.gatescambridge.org/), my research identified the major topological turning points in the human connectome — published in *Nature Communications* (2025) and covered by [BBC News](https://www.bbc.co.uk/news/articles/cgl6klez226o), [The Guardian](https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study), [The Wall Street Journal](https://www.wsj.com/health/wellness/brain-stages-aging-five-study-nature-a015101e), and over 340 other outlets worldwide.
 
