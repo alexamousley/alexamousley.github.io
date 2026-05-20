@@ -7,8 +7,6 @@ toc-location: right
 toc-title: "By year"
 ---
 
-A complete list of my peer-reviewed publications and preprints.
-
 ## 2026
 
 ::: {.pub-entry}

@@ -7,7 +7,7 @@ toc-location: right
 toc-title: "On this page"
 ---
 
-I believe research must reach beyond the journal articles. These are the venues where I've contributed to policy, science communication, and public conversation about brain development and mental health.
+These are the venues where I've contributed to policy, science communication, and public conversations about brain development and mental health.
 
 ## Policy development
 

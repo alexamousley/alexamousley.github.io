@@ -1,13 +1,13 @@
 ---
-title: "Mentoring & Teaching"
+title: "Mentoring & Research Culture"
 pagetitle: "Mentoring — Alexa Mousley"
-description-meta: "Graduate supervision, mentoring, and teaching activities by Alexa Mousley at the University of Cambridge."
+description-meta: "Graduate supervision, mentoring, and research culture activities by Alexa Mousley at the University of Cambridge."
 toc: true
 toc-location: right
 toc-title: "On this page"
 ---
 
-I work with students at all stages — from secondary school through graduate level.
+I work with students at all stages from secondary school through graduate level.
 
 ## Current
 
@@ -30,7 +30,8 @@ Providing professional and personal mentorship for graduate students across the 
 Through [Lumiere](https://www.lumiere-education.com/), I create individualised research syllabi and teach weekly one-on-one sessions for high-school students worldwide. Nine students mentored to date across the USA, India, China, Qatar, and Albania.
 
 Mentee project topics include:
-
+- Brain tumor location and functional connectivity
+- Neural plasticity and the gut microbiome
 - Neural resilience and the development of Alzheimer's disease
 - Depression and anxiety in adolescence
 - The gut-brain axis and mental health interventions *(resulting in an accepted manuscript in The National Journal of High School Science)*
@@ -55,4 +56,4 @@ Mentee project topics include:
 ## Service
 
 - **Postdoc Committee Member** — MRC Cognition and Brain Sciences Unit, University of Cambridge (October 2025 – present). Organising the Postdoc Retreat, social events, and grant workshops; tracking postdoc wellbeing and needs.
-- **Peer reviewer** — Brain Communications, Computational Cognitive Neuroscience Conference.
+- **Peer reviewer** — Brain Communications; Computational Cognitive Neuroscience Conference; Brain, Behavior and Evolution; Quantitative Imaging in Medicine and Surgery

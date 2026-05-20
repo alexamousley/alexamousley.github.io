@@ -22,7 +22,7 @@ Postdoctoral Research Associate
 [4D Lab](https://www.astlelab.com/), [Department of Psychiatry](https://www.psychiatry.cam.ac.uk/) · [University of Cambridge](https://www.cam.ac.uk/)
 :::
 
-I'm a computational neuroscientist studying how the brain's structural connections form, refine, and reorganise across the human lifespan.
+I'm a developmental neuroscientist studying how the brain's structural connections form, refine, and reorganise across the human lifespan.
 
 ::: {.social-row}
 [{{< fa envelope >}} Email](mailto:alexa.mousley@mrc-cbu.cam.ac.uk)
@@ -66,9 +66,9 @@ Read about the five eras of human brain network organisation ([*Nature Communica
 
 ## About
 
-I'm a computational neuroscientist working at the intersection of brain imaging, network science, and machine learning. My research explores the influence of genetic and environmental factors in the wiring of the developing brain across the lifespan.
+I'm a computational neuroscientist working at the intersection of brain imaging, network science, and machine learning. My research explores the wiring of the developing brain as it developes and changes across the lifespan in the context of genetic and environmental influences.
 
-I'm currently a postdoc in the [4D Lab](https://www.astlelab.com/) at Cambridge, where I investigate how brain connectivity relates to adolescent mental health, cognition, genetic predisposition, and adverse experiences in young people from the [Adolescent Brain Cognitive Development study](https://abcdstudy.org/). In my PhD, supported by the [Gates Cambridge Scholarship](https://www.gatescambridge.org/), my research identified the major topological turning points in the human connectome — published in *Nature Communications* (2025) and covered by [BBC News](https://www.bbc.co.uk/news/articles/cgl6klez226o), [The Guardian](https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study), [The Wall Street Journal](https://www.wsj.com/health/wellness/brain-stages-aging-five-study-nature-a015101e), and over 340 outlets worldwide.
+I'm currently a postdoc in the [4D Lab](https://www.astlelab.com/) at Cambridge, where I investigate how brain connectivity relates to adolescent mental health, cognition, genetics, and adverse experiences in young people from the [Adolescent Brain Cognitive Development study](https://abcdstudy.org/). In my PhD, supported by the [Gates Cambridge Scholarship](https://www.gatescambridge.org/), my research identified the major topological turning points in the human connectome — published in *Nature Communications* (2025) and covered by [BBC News](https://www.bbc.co.uk/news/articles/cgl6klez226o), [The Guardian](https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study), [The Wall Street Journal](https://www.wsj.com/health/wellness/brain-stages-aging-five-study-nature-a015101e), and over 340 other outlets worldwide.
 
 ## Research themes {.section-heading}
 
@@ -87,12 +87,12 @@ Why do brains wire the way they do? I build computational models that simulate h
 ::: {.theme-card}
 ### Brain architecture and critical periods of development
 
-In my current postdoc, I'm investigating how patterns of structural connectivity (i.e., connectivity signatures) relate to individual vulnerability and resilience during one of the formative period of adolescence.
+In my current postdoc, I'm investigating how patterns of structural connectivity (i.e., connectivity signatures) relate to individual vulnerability and resilience during the formative period of adolescence.
 :::
 
 ## In the news {.section-heading}
 
-My research has been featured in **BBC News**, **Sky News**, **The Guardian**, **The Wall Street Journal**, **The Times**, **Scientific American**, and **National Geographic**, among 340+ outlets worldwide. [See full coverage →](media.html)
+My research has been featured in **BBC News**, **Sky News**, **The Guardian**, **The Wall Street Journal**, **The Times**, **Scientific American**, and **National Geographic**, and over 340 other outlets worldwide. [See full coverage →](media.html)
 
 ## Beyond academics {.section-heading}
 
