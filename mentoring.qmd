@@ -32,6 +32,7 @@ Through [Lumiere](https://www.lumiere-education.com/), I create individualised r
 Mentee project topics include:
 - Brain tumor location and functional connectivity
 - Neural plasticity and the gut microbiome
+- Adolescent brain development and addiction
 - Neural resilience and the development of Alzheimer's disease
 - Depression and anxiety in adolescence
 - The gut-brain axis and mental health interventions *(resulting in an accepted manuscript in The National Journal of High School Science)*
