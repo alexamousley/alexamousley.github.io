@@ -23,13 +23,14 @@ Invited talks are marked with **★**.
 [Organization for Human Brain Mapping · Bordeaux, France · June 2026]{.venue}
 :::
 
-::: {.talk-entry .invited}
-[★]{.label}
-[Heritable white matter architecture shapes mental health outcomes in the context of adverse experiences ]{.talk-title}
-[The Child Development Forum · Centre for Child, Adolescent and Family Research · University of Cambridge · United Kingdom · June 2026]{.venue}
-:::
 
 ## 2026
+
+::: {.talk-entry .invited}
+[★]{.label}
+[White matter connectivity associated to genetic risk distinguishes preadolescent’s resilience to childhood adversity]{.talk-title}
+[The Child Development Forum · Centre for Child, Adolescent and Family Research · University of Cambridge · United Kingdom · June 2026]{.venue}
+:::
 
 ::: {.talk-entry .invited}
 [★]{.label}
