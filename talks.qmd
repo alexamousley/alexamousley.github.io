@@ -17,18 +17,17 @@ Invited talks are marked with **★**.
 [10th International Workshop on Adolescence, SRHR & HIV · Bangkok, Thailand · September 2026]{.venue}
 :::
 
+## 2026
+
 ::: {.talk-entry .invited}
 [★]{.label}
 [Lifespan Connectomics Meets AI: Complexity, Development and Clinical Applications]{.talk-title}
 [Organization for Human Brain Mapping · Bordeaux, France · June 2026]{.venue}
 :::
 
-
-## 2026
-
 ::: {.talk-entry .invited}
 [★]{.label}
-[White matter connectivity associated to genetic risk distinguishes preadolescent’s resilience to childhood adversity]{.talk-title}
+[White matter connectivity associated with genetic risk distinguishes preadolescents' resilience to childhood adversity]{.talk-title}
 [The Child Development Forum · Centre for Child, Adolescent and Family Research · University of Cambridge · United Kingdom · June 2026]{.venue}
 :::
 
