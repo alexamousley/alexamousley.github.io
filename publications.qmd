@@ -11,6 +11,17 @@ toc-title: "By year"
 
 ::: {.pub-entry}
 ::: {.authors}
+Poli, F., Fakhar, K., **Mousley, A.**, Klein, C., Wiesmann, C.G., & Astle, D.E. (2026)
+:::
+Curiosity shapes brain-like architectures and functions
+
+::: {.pub-links}
+[DOI](https://doi.org/10.64898/2026.07.02.735826)
+:::
+:::
+
+::: {.pub-entry}
+::: {.authors}
 Trachtenberg, E., **Mousley, A.**, Jelen, M., & Astle, D.E. (2026).
 :::
 Mapping social profiles in childhood and adolescence: associations with cognition and brain structure. [*bioRxiv*]{.journal}.
