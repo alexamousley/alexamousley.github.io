@@ -13,7 +13,7 @@ toc-title: "By year"
 ::: {.authors}
 Poli, F., Fakhar, K., **Mousley, A.**, Klein, C., Wiesmann, C.G., & Astle, D.E. (2026)
 :::
-Curiosity shapes brain-like architectures and functions
+Curiosity shapes brain-like architectures and functions [*bioRxiv*]{.journal}.
 
 ::: {.pub-links}
 [DOI](https://doi.org/10.64898/2026.07.02.735826)
