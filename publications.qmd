@@ -8,6 +8,16 @@ toc-title: "By year"
 ---
 
 ## 2026
+::: {.pub-entry}
+::: {.authors}
+Jelen, M., **Mousley, A.**, ..., & Astle, D.E. (2026)
+:::
+The topology of adolescent mental health. [*medRxiv*]{.journal}.
+
+::: {.pub-links}
+[DOI](https://doi.org/10.64898/2026.07.13.26357465)
+:::
+:::
 
 ::: {.pub-entry}
 ::: {.authors}
