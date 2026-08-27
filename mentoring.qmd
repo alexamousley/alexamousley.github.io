@@ -21,16 +21,19 @@ Providing professional and personal mentorship for graduate students across the 
 
 *October 2025 – present*
 
+**David Osten** — *Title TBD*
 **Halid Oguz Serce** — *Mapping longitudinal changes in structural networks using generative network modelling.*
 
 ### Mentor — Lumiere Education 
 
 *June 2023 – present*
 
-Through [Lumiere](https://www.lumiere-education.com/), I create individualised research syllabi and teach weekly one-on-one sessions for high-school students worldwide. I have mentored 11 students across the USA, India, China, Qatar, and Albania.
+Through [Lumiere](https://www.lumiere-education.com/), I create individualised research syllabi and teach weekly one-on-one sessions for high-school students worldwide. I have mentored 14 students across the USA, India, China, Qatar, Australia, and Albania.
 
 Mentee project topics include:
 
+- Movement and neurodevelopment
+- Impact of stress on neurobiology
 - Brain tumor location and functional connectivity
 - Adolescent brain development and addiction
 - Neural resilience and the development of Alzheimer's disease
@@ -56,5 +59,6 @@ Mentee project topics include:
 
 ## Service
 
+- **Communications Committee Chair* — Cognitive Computational Neuroscience Conference (October 2026 – present). Managing a team for information dissemination, website upkeep, and social media engagment.
 - **Postdoc Committee Member** — MRC Cognition and Brain Sciences Unit, University of Cambridge (October 2025 – present). Organising the Postdoc Retreat, social events, and grant workshops; tracking postdoc wellbeing and needs.
 - **Peer reviewer** — Brain Communications; Computational Cognitive Neuroscience Conference; Brain, Behavior and Evolution; Quantitative Imaging in Medicine and Surgery
