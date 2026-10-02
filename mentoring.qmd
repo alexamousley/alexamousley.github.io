@@ -61,5 +61,5 @@ Mentee project topics include:
 ## Service
 
 - **Communications Committee Chair** — Cognitive Computational Neuroscience Conference (October 2026 – present). Managing a team for information dissemination, website upkeep, and social media engagment.
-- **Postdoc Committee Member** — MRC Cognition and Brain Sciences Unit, University of Cambridge (October 2025 – present). Organising the Postdoc Retreat, social events, and grant workshops; tracking postdoc wellbeing and needs.
+- **Postdoc Committee Member** — MRC Cognition and Brain Sciences Unit, University of Cambridge (October 2025 – October 2026). Organising the Postdoc Retreat, social events, and grant workshops; tracking postdoc wellbeing and needs.
 - **Peer reviewer** — Brain Communications; Computational Cognitive Neuroscience Conference; Brain, Behavior and Evolution; Quantitative Imaging in Medicine and Surgery
