@@ -10,14 +10,29 @@ toc-title: "By year"
 Invited talks are marked with **★**.
 
 ## Upcoming
+::: {.talk-entry .invited}
+[Wired resilience: Adversity shapes genetic and mental health signature in the brain]{.talk-title}
+[WLTS, Cambridge Mind and Brain Institute · Cambridge, UK · November 2026]{.venue}
+:::
+
+## 2026
+::: {.talk-entry .invited}
+[★]{.label}
+[Structural rewiring: Health, adversity, and resilience in the developing brain]{.talk-title}
+[Centre for the Developing Brain, King’s College London · London, UK · October 2026]{.venue}
+:::
+
+::: {.talk-entry .invited}
+[★]{.label}
+[Wired resilience: Adversity shapes genetic and mental health signature in the brain]{.talk-title}
+[Department of Psychology, King’s College London · London, UK · October 2026]{.venue}
+:::
 
 ::: {.talk-entry .invited}
 [★]{.label}
 [Adolescent Brain Matures at 32]{.talk-title}
 [10th International Workshop on Adolescence, SRHR & HIV · Bangkok, Thailand · September 2026]{.venue}
 :::
-
-## 2026
 
 ::: {.talk-entry .invited}
 [★]{.label}
@@ -101,6 +116,13 @@ Invited talks are marked with **★**.
 :::
 
 ## Poster presentations
+
+### 2026
+
+::: {.talk-entry}
+[A data-driven approach for identifying multi-domain connectivity signatures]{.talk-title}
+[Cognitive Computational Neuroscience · New York, USA · August 2026]{.venue}
+:::
 
 ### 2025
 
