@@ -10,7 +10,7 @@ toc-title: "By year"
 Invited talks are marked with **★**.
 
 ## Upcoming
-::: {.talk-entry .invited}
+::: {.talk-entry}
 [Wired resilience: Adversity shapes genetic and mental health signature in the brain]{.talk-title}
 [WLTS, Cambridge Mind and Brain Institute · Cambridge, UK · November 2026]{.venue}
 :::
